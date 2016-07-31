@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MySwingTest.iml" filepath="$PROJECT_DIR$/MySwingTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/application.linux/application.linux.iml" filepath="$PROJECT_DIR$/application.linux/application.linux.iml" />
-      <module fileurl="file://$PROJECT_DIR$/prefuse-visualization-tool.iml" filepath="$PROJECT_DIR$/prefuse-visualization-tool.iml" />
     </modules>
   </component>
 </project>
