@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.5" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="databaseLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="strConfLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="usernameLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="pwdLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="portLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="nodeSelectLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="edgeSelectLabel" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="edgeSelectText" alignment="0" pref="267" max="32767" attributes="0"/>
+                              <Component id="nodeSelectText" alignment="0" pref="267" max="32767" attributes="0"/>
+                              <Component id="portText" alignment="0" pref="267" max="32767" attributes="0"/>
+                              <Component id="pwdText" alignment="0" pref="267" max="32767" attributes="0"/>
+                              <Component id="usernameText" alignment="0" pref="267" max="32767" attributes="0"/>
+                              <Component id="databaseText" alignment="0" pref="267" max="32767" attributes="0"/>
+                              <Component id="strConfText" alignment="1" min="-2" pref="267" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="166" max="-2" attributes="0"/>
+                          <Component id="confButton" min="-2" pref="96" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="strConfText" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="databaseText" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="usernameText" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="strConfLabel" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="databaseLabel" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="usernameLabel" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="pwdText" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="portText" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="nodeSelectText" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="edgeSelectText" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="pwdLabel" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="portLabel" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="nodeSelectLabel" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="edgeSelectLabel" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                  <Component id="confButton" min="-2" pref="36" max="-2" attributes="0"/>
+                  <EmptySpace pref="27" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="java.awt.Label" name="strConfLabel">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" size="12" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x914d;&#x7f6e;&#x540d;&#x79f0;&#xff1a;"/>
+          </Properties>
+        </Component>
+        <Component class="java.awt.Label" name="databaseLabel">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" size="12" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x6570;&#x636e;&#x5e93;&#x540d;&#x79f0;&#xff1a;"/>
+          </Properties>
+        </Component>
+        <Component class="java.awt.Label" name="usernameLabel">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" size="12" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x7528;&#x6237;&#x540d;&#xff1a;"/>
+          </Properties>
+        </Component>
+        <Component class="java.awt.Label" name="pwdLabel">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" size="12" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x5bc6;&#x7801;&#xff1a;"/>
+          </Properties>
+        </Component>
+        <Component class="java.awt.Label" name="portLabel">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" size="12" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x7aef;&#x53e3;&#x53f7;&#xff1a;"/>
+          </Properties>
+        </Component>
+        <Component class="java.awt.Label" name="nodeSelectLabel">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" size="12" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x8282;&#x70b9;&#x67e5;&#x8be2;&#xff1a;"/>
+          </Properties>
+        </Component>
+        <Component class="java.awt.Label" name="edgeSelectLabel">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" size="12" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x8fb9;&#x67e5;&#x8be2;&#xff1a;"/>
+          </Properties>
+        </Component>
+        <Component class="java.awt.TextField" name="strConfText">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="com.microsoft.sqlserver.jdbc.SQLServerDriver"/>
+          </Properties>
+        </Component>
+        <Component class="java.awt.TextField" name="databaseText">
+        </Component>
+        <Component class="java.awt.TextField" name="usernameText">
+        </Component>
+        <Component class="java.awt.TextField" name="pwdText">
+        </Component>
+        <Component class="java.awt.TextField" name="portText">
+        </Component>
+        <Component class="java.awt.TextField" name="nodeSelectText">
+        </Component>
+        <Component class="java.awt.TextField" name="edgeSelectText">
+        </Component>
+        <Component class="java.awt.Button" name="confButton">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" size="12" style="0"/>
+            </Property>
+            <Property name="label" type="java.lang.String" value="&#x5b8c;&#x6210;&#x914d;&#x7f6e;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="confButtonActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  An excerpt of an egocentric social network  -->
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<graph edgedefault="undirected">
+ 
+<!-- data schema -->
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="gender" for="node" attr.name="gender" attr.type="string"/>
+<key id="id" for="node" attr.name="id" attr.type="string"/>
+  
+<!-- nodes -->  
+<node id="1">
+ <data key="name">Jeff</data>
+ <data key="gender">M</data>
+ <data key="id">1</data>
+ </node>
+<node id="2">
+ <data key="name">Ed</data>
+ <data key="gender">M</data>
+ <data key="id">2</data>
+</node>
+<node id="3">
+ <data key="name">Christiaan</data>
+ <data key="gender">M</data>
+ <data key="id">3</data>
+</node>
+<node id="4">
+ <data key="name">Emily</data>
+ <data key="gender">F</data>
+ <data key="id">4</data>
+</node>
+<node id="5">
+ <data key="name">Adam</data>
+ <data key="gender">M</data>
+ <data key="id">5</data>
+</node>
+<node id="6">
+ <data key="name">Cynthia</data>
+ <data key="gender">F</data>
+ <data key="id">6</data>
+</node>
+<node id="7">
+ <data key="name">Joylette</data>
+ <data key="gender">F</data>
+ <data key="id">7</data>
+</node>
+<node id="8">
+ <data key="name">Amanda</data>
+ <data key="gender">F</data>
+ <data key="id">8</data>
+</node>
+<node id="9">
+ <data key="name">Nathaniel</data>
+ <data key="gender">M</data>
+ <data key="id">9</data>
+</node>
+
+<!-- edges -->
+<edge source="1" target="2"></edge>
+<edge source="2" target="3"></edge>
+<edge source="3" target="1"></edge>
+<edge source="4" target="5"></edge>
+<edge source="5" target="6"></edge>
+<edge source="6" target="4"></edge>
+<edge source="7" target="8"></edge>
+<edge source="8" target="9"></edge>
+<edge source="9" target="7"></edge>
+<edge source="1" target="4"></edge>
+<edge source="4" target="7"></edge>
+<edge source="7" target="1"></edge>
+</graph>
+</graphml>
