@@ -41,8 +41,9 @@ run/stop the layout algorith <br><br>
 
 3.Some demo<br>
 ![Demo1](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/demo1.gif)<br>
-![Demo2](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/demo1.gif)<br>
-![Demo3](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/demo1.gif)<br>
-
+![Demo2](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/demo2.gif)<br>
+![Demo3](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/demo3.gif)<br>
+![bigdataShow](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/bigdataShow.png)<br>
+![weightEdge](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/weightEdge.jpg)<br>
 
 
