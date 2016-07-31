@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lucene-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/swing-layout-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/prefuse-beta-20060220.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/prefuse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mssqlserver2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqljdbc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

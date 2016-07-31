@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="widget1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/org/apache/widget/widget.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
