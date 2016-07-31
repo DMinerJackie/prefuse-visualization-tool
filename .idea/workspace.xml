@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b47255f7-cbd1-477c-bc56-e36ee28bce88" name="Default" comment="" />
+    <list default="true" id="b47255f7-cbd1-477c-bc56-e36ee28bce88" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\CommunityTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1118.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1119.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1119_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1120.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1121.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1121_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1124.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1124_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1124_config.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1125.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1125_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1126.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1126_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1126_2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1127.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1127_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1127_2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1128.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1128_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1128_2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1128_3.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\Example1128_4.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\JFrameTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1118_1130\socialnet.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1201.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1201_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1203.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1203_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1203_2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1203_3.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1203_4.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1208.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1209.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1209_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1210.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1210_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1211.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1211_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1212.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1212_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1215.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1215_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1215_2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1215_3.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1215_4.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1201_1230\Example1215_5.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1216_1230\Example1216.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1216_1230\Example1216_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1216_1230\Example1216_2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1216_1230\Example1216_3.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1216_1230\Example1222.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1216_1230\Example1222_1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1216_1230\Example1222_2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\Jack1216_1230\Example1223.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="MySwingTest.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -29,14 +90,17 @@
       <file leaf-file-name="MainFrame.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31294963" vertical-offset="7264" max-vertical-offset="11400">
-              <caret line="640" column="35" selection-start-line="640" selection-start-column="35" selection-end-line="640" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.8064516" vertical-offset="7525" max-vertical-offset="11400">
+              <caret line="660" column="5" selection-start-line="660" selection-start-column="5" selection-end-line="660" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -57,7 +121,7 @@
     <option name="width" value="1938" />
     <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -82,32 +146,31 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MySwingTest" />
+              <option name="myItemId" value="prefuse-visualization-tool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MySwingTest" />
+              <option name="myItemId" value="prefuse-visualization-tool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MySwingTest" />
+              <option name="myItemId" value="prefuse-visualization-tool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MySwingTest" />
+              <option name="myItemId" value="prefuse-visualization-tool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MySwingTest" />
+              <option name="myItemId" value="prefuse-visualization-tool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -117,29 +180,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MySwingTest" />
+              <option name="myItemId" value="prefuse-visualization-tool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MySwingTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apache" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MySwingTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MySwingTest" />
+              <option name="myItemId" value="prefuse-visualization-tool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -148,55 +193,12 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="apache" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MySwingTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MySwingTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apache" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MySwingTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MySwingTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application.linux" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -214,6 +216,9 @@
     <property name="dynamic.classpath" value="false" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="469" />
     <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Application.MainFrame">
     <configuration default="false" name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -549,17 +554,19 @@
       <updated>1469933791438</updated>
       <workItem from="1469933800125" duration="1334000" />
       <workItem from="1469935202946" duration="85000" />
+      <workItem from="1469965530038" duration="12000" />
+      <workItem from="1469965618369" duration="90000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1419000" />
+    <option name="totallyTimeSpent" value="1521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32990867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -568,10 +575,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32990867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -613,6 +620,22 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11450">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/apache/demo/test/GridBagLayoutTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2475">
@@ -671,8 +694,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31294963" vertical-offset="7264" max-vertical-offset="11400">
-          <caret line="640" column="35" selection-start-line="640" selection-start-column="35" selection-end-line="640" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.8064516" vertical-offset="7525" max-vertical-offset="11400">
+          <caret line="660" column="5" selection-start-line="660" selection-start-column="5" selection-end-line="660" selection-end-column="5" />
           <folding />
         </state>
       </provider>
