@@ -61,30 +61,30 @@ public class DatabaseConfFrame extends javax.swing.JFrame {
 		setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
 		strConfLabel.setFont(new java.awt.Font("微软雅黑", 0, 12));
-		strConfLabel.setText("\u914d\u7f6e\u540d\u79f0\uff1a");
+		strConfLabel.setText("Driver String");
 
 		databaseLabel.setFont(new java.awt.Font("微软雅黑", 0, 12));
-		databaseLabel.setText("\u6570\u636e\u5e93\u540d\u79f0\uff1a");
+		databaseLabel.setText("Database Label");
 
 		usernameLabel.setFont(new java.awt.Font("微软雅黑", 0, 12));
-		usernameLabel.setText("\u7528\u6237\u540d\uff1a");
+		usernameLabel.setText("Username");
 
 		pwdLabel.setFont(new java.awt.Font("微软雅黑", 0, 12));
-		pwdLabel.setText("\u5bc6\u7801\uff1a");
+		pwdLabel.setText("Password");
 
 		portLabel.setFont(new java.awt.Font("微软雅黑", 0, 12));
-		portLabel.setText("\u7aef\u53e3\u53f7\uff1a");
+		portLabel.setText("Port");
 
 		nodeSelectLabel.setFont(new java.awt.Font("微软雅黑", 0, 12));
-		nodeSelectLabel.setText("\u8282\u70b9\u67e5\u8be2\uff1a");
+		nodeSelectLabel.setText("Search Nodes");
 
 		edgeSelectLabel.setFont(new java.awt.Font("微软雅黑", 0, 12));
-		edgeSelectLabel.setText("\u8fb9\u67e5\u8be2\uff1a");
+		edgeSelectLabel.setText("Search Edges");
 
 		strConfText.setText("com.microsoft.sqlserver.jdbc.SQLServerDriver");
 
 		confButton.setFont(new java.awt.Font("微软雅黑", 0, 12));
-		confButton.setLabel("\u5b8c\u6210\u914d\u7f6e");
+		confButton.setLabel("OK");
 		confButton.addActionListener(new java.awt.event.ActionListener() {
 			public void actionPerformed(java.awt.event.ActionEvent evt) {
 				confButtonActionPerformed(evt);
