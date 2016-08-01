@@ -2,409 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b47255f7-cbd1-477c-bc56-e36ee28bce88" name="Default" comment="code">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/skin.jar" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\.myeclipse\profiler\JPrefuseApplet.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\.myeclipse\profiler\MainFrame.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\applet\CommunityTest.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\applet\Example1118.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\applet\Example1119.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\applet\Example1119_1.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\applet\Example1120.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\applet\Example1121.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\applet\Example1121_1.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\applet\Example1124.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\applet\Example1124_1.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\applet\Example1124_config.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\applet\Example1125.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\applet\Example1125_1.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\applet\JFrameTest.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\application.linux.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\test\CommunityTest.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\test\Example1118.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\test\Example1119.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\test\Example1119_1.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\test\Example1120.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\test\Example1121.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\test\Example1121_1.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\test\Example1124.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\test\Example1124_1.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\test\Example1124_config.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\test\Example1125.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\test\Example1125_1.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\test\JFrameTest.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\widget\Congress.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\widget\DataMountain.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\widget\FisheyeMenu.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\widget\GraphView.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\widget\Prefuse_Test.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\widget\RadialGraphView.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\widget\Sample.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\widget\ScatterPlot.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\widget\TabularDataVis.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\widget\TreeMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\widget\TreeView.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\org\apache\widget\ZipDecode.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\Constants.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\Display.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\Visualization.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\Action.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\ActionList.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\ActionSwitch.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\CompositeAction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\EncoderAction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\GroupAction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\ItemAction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\RepaintAction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\animate\ArrayAnimator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\animate\AxisLabelAnimator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\animate\ColorAnimator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\animate\FontAnimator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\animate\LocationAnimator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\animate\PolarLocationAnimator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\animate\QualityControlAnimator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\animate\SizeAnimator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\animate\VisibilityAnimator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\assignment\ColorAction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\assignment\DataColorAction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\assignment\DataShapeAction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\assignment\DataSizeAction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\assignment\FontAction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\assignment\ShapeAction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\assignment\SizeAction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\assignment\StrokeAction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\distortion\BifocalDistortion.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\distortion\Distortion.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\distortion\FisheyeDistortion.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\filter\FisheyeTreeFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\filter\GraphDistanceFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\filter\VisibilityFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\AxisLabelLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\AxisLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\CircleLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\CollapsedStackLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\CollapsedSubtreeLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\GridLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\Layout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\RandomLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\SpecifiedLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\StackedAreaChart.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\graph\BalloonTreeLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\graph\ForceDirectedLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\graph\FruchtermanReingoldLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\graph\NodeLinkTreeLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\graph\RadialTreeLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\graph\SquarifiedTreeMapLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\action\layout\graph\TreeLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\activity\Activity.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\activity\ActivityAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\activity\ActivityListener.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\activity\ActivityManager.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\activity\ActivityMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\activity\Pacer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\activity\SlowInSlowOutPacer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\activity\ThereAndBackPacer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\AbstractZoomControl.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\AnchorUpdateControl.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\Control.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\ControlAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\DragControl.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\FocusControl.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\HoverActionControl.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\NeighborHighlightControl.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\PanControl.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\RotationControl.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\SubtreeDragControl.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\ToolTipControl.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\WheelZoomControl.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\ZoomControl.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\ZoomToFitControl.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\controls\ZoomingPanControl.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\CascadedTable.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\DataReadOnlyException.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\DataTypeException.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\Edge.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\Graph.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\Node.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\Schema.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\SpanningTree.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\Table.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\Tree.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\Tuple.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\column\AbstractColumn.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\column\BooleanColumn.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\column\ByteColumn.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\column\Column.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\column\ColumnFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\column\ColumnMetadata.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\column\ConstantColumn.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\column\DateColumn.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\column\DoubleColumn.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\column\ExpressionColumn.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\column\FloatColumn.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\column\IntColumn.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\column\LongColumn.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\column\ObjectColumn.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\event\ColumnListener.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\event\EventConstants.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\event\ExpressionListener.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\event\GraphListener.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\event\ProjectionListener.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\event\TableListener.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\event\TupleSetListener.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\AbstractExpression.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\AbstractPredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\AndPredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\ArithmeticExpression.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\BinaryExpression.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\BooleanLiteral.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\ColumnExpression.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\ComparisonPredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\CompositePredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\Expression.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\ExpressionAnalyzer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\ExpressionVisitor.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\Function.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\FunctionExpression.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\FunctionTable.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\IfExpression.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\Literal.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\NotPredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\NumericLiteral.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\ObjectLiteral.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\OrPredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\Predicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\RangePredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\XorPredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\parser\ExpressionParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\parser\ExpressionParserConstants.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\parser\ExpressionParserTokenManager.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\parser\JavaCharStream.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\parser\ParseException.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\parser\Token.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\expression\parser\TokenMgrError.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\AbstractGraphReader.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\AbstractGraphWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\AbstractTableReader.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\AbstractTableWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\AbstractTextTableReader.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\CSVTableReader.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\CSVTableWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\DataIOException.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\DelimitedTextTableReader.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\DelimitedTextTableWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\FixedWidthTextTableReader.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\FixedWidthTextTableSchema.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\FixedWidthTextTableWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\GraphMLReader.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\GraphMLWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\GraphReader.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\GraphWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\TableReadListener.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\TableReader.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\TableWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\TreeMLReader.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\TreeMLWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\sql\CompositeSQLDataHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\sql\ConnectionFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\sql\DataSourceWorker.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\sql\DatabaseDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\sql\DefaultSQLDataHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\io\sql\SQLDataHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\BooleanParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\ByteParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\ColorIntParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\DataParseException.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\DataParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\DateParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\DateTimeParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\DoubleArrayParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\DoubleParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\FloatArrayParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\FloatParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\IntArrayParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\IntParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\LongArrayParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\LongParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\ObjectParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\ParserFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\StringParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\TimeParser.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\parser\TypeInferencer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\query\DynamicQueryBinding.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\query\ListModel.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\query\ListQueryBinding.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\query\NumberRangeModel.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\query\ObjectRangeModel.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\query\RangeQueryBinding.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\query\SearchQueryBinding.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\search\KeywordSearchTupleSet.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\search\LuceneSearcher.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\search\PrefixSearchTupleSet.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\search\RegexSearchTupleSet.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\search\SearchTupleSet.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\search\Trie.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\tuple\AbstractTupleSet.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\tuple\CompositeTupleSet.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\tuple\DefaultTupleSet.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\tuple\TableEdge.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\tuple\TableNode.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\tuple\TableTuple.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\tuple\TupleManager.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\tuple\TupleSet.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\AbstractColumnProjection.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\AcceptAllColumnProjection.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\BreadthFirstIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\CascadedRowManager.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\ColumnProjection.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\FilterIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\FilterIteratorFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\FilterRowIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\FilteredRowManager.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\Index.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\NamedColumnProjection.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\NeighborIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\RowManager.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\Sort.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\SortedTupleIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\TableIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\TreeIndex.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\TreeNodeIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\TupleComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\UniqueRowIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\data\util\ValidEdgePredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\render\AbstractShapeRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\render\AxisRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\render\DefaultRendererFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\render\EdgeRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\render\ImageFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\render\LabelRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\render\NullRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\render\PolygonRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\render\Renderer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\render\RendererFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\render\ShapeRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ArrayLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ColorLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ColorMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\DataLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\FontLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\GraphLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\GraphicsLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\MathLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\PredicateChain.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\PrefuseConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\PrefuseLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\StringLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\StrokeLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\TimeLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\TypeLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\UpdateListener.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\AbstractHashMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\AbstractLiteralIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\AbstractTreeMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\BooleanIntBitSetMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\BooleanIntSortedMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\ByteArrayList.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\CompositeComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\CompositeIntIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\CompositeIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\CopyOnWriteArrayList.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\DefaultLiteralComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\DoubleIntSortedMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\DoubleIntTreeMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\FloatIntSortedMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\FloatIntTreeMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\IncompatibleComparatorException.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\IntArrayIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\IntIntSortedMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\IntIntTreeMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\IntIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\IntObjectHashMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\IntSortedMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\LiteralComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\LiteralIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\LongIntSortedMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\LongIntTreeMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\NullComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\ObjectIntSortedMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\ObjectIntTreeMap.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\PrimeFinder.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\Queue.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\collections\SortedMapFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\display\BackgroundPainter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\display\Clip.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\display\DebugStatsPainter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\display\DisplayLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\display\ExportDisplayAction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\display\ItemBoundsListener.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\display\PaintListener.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\display\RenderingQueue.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\display\ScaleSelector.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\force\AbstractForce.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\force\CircularWallForce.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\force\DragForce.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\force\EulerIntegrator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\force\Force.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\force\ForceConfigAction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\force\ForceItem.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\force\ForceSimulator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\force\GravitationalForce.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\force\Integrator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\force\NBodyForce.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\force\RungeKuttaIntegrator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\force\Spring.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\force\SpringForce.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\force\WallForce.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\io\IOLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\io\PasswordAuthenticator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\io\SimpleFileFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\io\XMLWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ui\BrowserLauncher.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ui\JCustomTooltip.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ui\JFastLabel.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ui\JForcePanel.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ui\JPrefuseApplet.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ui\JPrefuseTable.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ui\JPrefuseTree.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ui\JRangeSlider.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ui\JSearchPanel.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ui\JToggleGroup.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ui\JValueSlider.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ui\PrefuseTableModel.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ui\UILib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\util\ui\ValuedRangeModel.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\AggregateItem.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\AggregateTable.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\DecoratorItem.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\EdgeItem.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\NodeItem.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\VisualGraph.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\VisualItem.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\VisualTable.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\VisualTree.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\VisualTupleSet.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\expression\GroupExpression.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\expression\GroupSizeFunction.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\expression\HoverPredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\expression\InGroupPredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\expression\QueryExpression.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\expression\SearchPredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\expression\StartVisiblePredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\expression\ValidatedPredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\expression\VisiblePredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\sort\ItemSorter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\sort\TreeDepthItemSorter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\tuple\TableAggregateItem.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\tuple\TableDecoratorItem.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\tuple\TableEdgeItem.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\tuple\TableNodeItem.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\prefuse-visualization-tool\application.linux\source\prefuse\visual\tuple\TableVisualItem.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.jfd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/demo/GraphAttriSetFrame.jfd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/demo/MainFrame.jfd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/org/apache/demo/DatabaseConfFrame.class" afterPath="$PROJECT_DIR$/bin/org/apache/demo/DatabaseConfFrame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/org/apache/demo/MainFrame.class" afterPath="$PROJECT_DIR$/bin/org/apache/demo/MainFrame.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.java" afterPath="$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/prefuse/data/search/KeywordSearchTupleSet.java" afterPath="$PROJECT_DIR$/src/prefuse/data/search/KeywordSearchTupleSet.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/prefuse/data/search/LuceneSearcher.java" afterPath="$PROJECT_DIR$/src/prefuse/data/search/LuceneSearcher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/apache/demo/MainFrame.java" afterPath="$PROJECT_DIR$/src/org/apache/demo/MainFrame.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MySwingTest.iml" afterPath="$PROJECT_DIR$/MySwingTest.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MySwingTest.iws" />
@@ -425,6 +31,12 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="MySwingTest" />
@@ -434,30 +46,137 @@
       <file leaf-file-name="MainFrame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.69697" vertical-offset="7580" max-vertical-offset="11675">
-              <caret line="649" column="32" selection-start-line="649" selection-start-column="32" selection-end-line="649" selection-end-column="32" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="10884" max-vertical-offset="11375">
+              <caret line="644" column="13" selection-start-line="644" selection-start-column="13" selection-end-line="644" selection-end-column="13" />
+              <folding>
+                <marker date="1470056752709" expanded="false" signature="24651:24704" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MySwingTest.iml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MySwingTest.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MySwingTest.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2025">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="2025">
+              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DatabaseConfFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.java">
+      <file leaf-file-name="JackConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/apache/demo/JackConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1639" max-vertical-offset="3025">
-              <caret line="168" column="8" selection-start-line="168" selection-start-column="8" selection-end-line="168" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="281" max-vertical-offset="950">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseConfBean.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseConfFrame.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4090909" vertical-offset="3740" max-vertical-offset="5075">
+              <caret line="168" column="8" selection-start-line="168" selection-start-column="8" selection-end-line="168" selection-end-column="8" />
+              <folding>
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
+                <element signature="e#986#1049#0" expanded="true" />
+                <element signature="e#2672#2819#0" expanded="true" />
+                <element signature="e#2818#2819#0" expanded="true" />
+                <element signature="e#11409#11610#0" expanded="true" />
+                <element signature="e#11609#11610#0" expanded="true" />
+                <marker date="1470064217467" expanded="false" signature="12309:12362" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseConfFrame.form" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.form">
+          <provider selected="true" editor-type-id="ui-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainFrame.jfd" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.jfd">
+          <provider selected="true" editor-type-id="JFormDesigner">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GraphAttriSetFrame.jfd" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/apache/demo/GraphAttriSetFrame.jfd">
+          <provider selected="true" editor-type-id="JFormDesigner">
+            <state propertiesWidth="500" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GraphAttriSetFrame.form" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/apache/demo/GraphAttriSetFrame.form">
+          <provider selected="true" editor-type-id="ui-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/apache/demo/test/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3150">
+              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainFrame.form" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.form">
+          <provider selected="true" editor-type-id="ui-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GraphAttriSetFrame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/apache/demo/GraphAttriSetFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.6969695" vertical-offset="1487" max-vertical-offset="5700">
+              <caret line="85" column="49" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="49" />
+              <folding>
+                <element signature="e#1280#1750#0" expanded="true" />
+                <element signature="e#1749#1750#0" expanded="true" />
+                <element signature="e#2785#2941#0" expanded="true" />
+                <element signature="e#2940#2941#0" expanded="true" />
+                <element signature="e#3034#3191#0" expanded="true" />
+                <element signature="e#3190#3191#0" expanded="true" />
+                <element signature="e#3374#3375#0" expanded="true" />
+                <element signature="e#3406#3407#0" expanded="true" />
+                <element signature="e#3446#3447#0" expanded="true" />
+                <element signature="e#3474#3475#0" expanded="true" />
+                <element signature="e#7036#7037#0" expanded="true" />
+                <element signature="e#7069#7070#0" expanded="true" />
+                <marker date="1470056752707" expanded="false" signature="7807:7859" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseConfFrame.jfd" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.jfd">
+          <provider selected="true" editor-type-id="JFormDesigner">
+            <state propertiesWidth="441" />
           </provider>
         </entry>
       </file>
@@ -466,7 +185,29 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="3539" max-vertical-offset="6475">
               <caret line="181" column="20" selection-start-line="181" selection-start-column="20" selection-end-line="181" selection-end-column="20" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1859#1860#0" expanded="false" />
+                <element signature="e#1913#1914#0" expanded="false" />
+                <element signature="e#2130#2131#0" expanded="false" />
+                <element signature="e#2169#2170#0" expanded="false" />
+                <element signature="e#2626#2627#0" expanded="false" />
+                <element signature="e#2682#2683#0" expanded="false" />
+                <element signature="e#8444#8445#0" expanded="false" />
+                <element signature="e#8475#8476#0" expanded="false" />
+                <element signature="e#8685#8686#0" expanded="false" />
+                <element signature="e#8725#8726#0" expanded="false" />
+                <element signature="e#9020#9021#0" expanded="false" />
+                <element signature="e#9067#9068#0" expanded="false" />
+                <element signature="e#9374#9375#0" expanded="false" />
+                <element signature="e#9428#9429#0" expanded="false" />
+                <element signature="e#9620#9621#0" expanded="false" />
+                <element signature="e#9649#9650#0" expanded="false" />
+                <element signature="e#9844#9845#0" expanded="false" />
+                <element signature="e#9875#9876#0" expanded="false" />
+                <element signature="e#10045#10046#0" expanded="false" />
+                <element signature="e#10078#10079#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -476,7 +217,23 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="3164" max-vertical-offset="4175">
               <caret line="165" column="5" selection-start-line="165" selection-start-column="5" selection-end-line="165" selection-end-column="5" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1512#1513#0" expanded="false" />
+                <element signature="e#1559#1560#0" expanded="false" />
+                <element signature="e#1769#1770#0" expanded="false" />
+                <element signature="e#1804#1805#0" expanded="false" />
+                <element signature="e#1954#1955#0" expanded="false" />
+                <element signature="e#1984#1985#0" expanded="false" />
+                <element signature="e#4225#4226#0" expanded="false" />
+                <element signature="e#4253#4254#0" expanded="false" />
+                <element signature="e#4535#4536#0" expanded="false" />
+                <element signature="e#4592#4593#0" expanded="false" />
+                <element signature="e#5281#5282#0" expanded="false" />
+                <element signature="e#5312#5313#0" expanded="false" />
+                <element signature="e#5539#5540#0" expanded="false" />
+                <element signature="e#5593#5594#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -489,10 +246,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.java" />
         <option value="$PROJECT_DIR$/src/prefuse/data/search/LuceneSearcher.java" />
         <option value="$PROJECT_DIR$/src/prefuse/data/search/KeywordSearchTupleSet.java" />
         <option value="$PROJECT_DIR$/src/org/apache/demo/MainFrame.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.jfd" />
+        <option value="$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.java" />
       </list>
     </option>
   </component>
@@ -580,10 +338,58 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prefuse-visualization-tool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prefuse-visualization-tool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prefuse-visualization-tool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prefuse-visualization-tool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -600,12 +406,20 @@
     <property name="dynamic.classpath" value="false" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="469" />
     <property name="FullScreen" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="File.Encoding" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\demo\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\prefuse-visualization-tool\src\org\apache\demo\test" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.MainFrame">
     <configuration default="false" name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -930,6 +744,11 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -943,35 +762,52 @@
       <workItem from="1469935202946" duration="85000" />
       <workItem from="1469965530038" duration="12000" />
       <workItem from="1469965618369" duration="90000" />
-      <workItem from="1469967690332" duration="878000" />
+      <workItem from="1469967690332" duration="2814000" />
+      <workItem from="1470052194454" duration="624000" />
+      <workItem from="1470052869874" duration="722000" />
+      <workItem from="1470053612101" duration="156000" />
+      <workItem from="1470053787083" duration="5594000" />
     </task>
+    <task id="LOCAL-00001" summary="code refector">
+      <created>1469968668589</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1469968668589</updated>
+    </task>
+    <task id="LOCAL-00002" summary="configure database configuration UI with english label">
+      <created>1470064184541</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1470064184541</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2399000" />
+    <option name="totallyTimeSpent" value="11431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5856164" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.206621" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32990867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36301368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32990867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32990867" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4760274" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.58789957" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3458904" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -998,6 +834,9 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="code refector" />
+    <MESSAGE value="configure database configuration UI with english label" />
+    <option name="LAST_COMMIT_MESSAGE" value="configure database configuration UI with english label" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1008,11 +847,452 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/GraphAttriSetFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="4225">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+          <folding>
+            <element signature="e#1280#1750#0" expanded="true" />
+            <element signature="e#1749#1750#0" expanded="true" />
+            <element signature="e#2785#2941#0" expanded="true" />
+            <element signature="e#2940#2941#0" expanded="true" />
+            <element signature="e#3034#3191#0" expanded="true" />
+            <element signature="e#3190#3191#0" expanded="true" />
+            <element signature="e#3374#3375#0" expanded="true" />
+            <element signature="e#3406#3407#0" expanded="true" />
+            <element signature="e#3446#3447#0" expanded="true" />
+            <element signature="e#3474#3475#0" expanded="true" />
+            <element signature="e#7036#7037#0" expanded="true" />
+            <element signature="e#7069#7070#0" expanded="true" />
+            <marker date="1470056752707" expanded="false" signature="7807:7859" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prefuse/data/search/LuceneSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3539" max-vertical-offset="6475">
+          <caret line="181" column="20" selection-start-line="181" selection-start-column="20" selection-end-line="181" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1859#1860#0" expanded="false" />
+            <element signature="e#1913#1914#0" expanded="false" />
+            <element signature="e#2130#2131#0" expanded="false" />
+            <element signature="e#2169#2170#0" expanded="false" />
+            <element signature="e#2626#2627#0" expanded="false" />
+            <element signature="e#2682#2683#0" expanded="false" />
+            <element signature="e#8444#8445#0" expanded="false" />
+            <element signature="e#8475#8476#0" expanded="false" />
+            <element signature="e#8685#8686#0" expanded="false" />
+            <element signature="e#8725#8726#0" expanded="false" />
+            <element signature="e#9020#9021#0" expanded="false" />
+            <element signature="e#9067#9068#0" expanded="false" />
+            <element signature="e#9374#9375#0" expanded="false" />
+            <element signature="e#9428#9429#0" expanded="false" />
+            <element signature="e#9620#9621#0" expanded="false" />
+            <element signature="e#9649#9650#0" expanded="false" />
+            <element signature="e#9844#9845#0" expanded="false" />
+            <element signature="e#9875#9876#0" expanded="false" />
+            <element signature="e#10045#10046#0" expanded="false" />
+            <element signature="e#10078#10079#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prefuse/data/search/KeywordSearchTupleSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3164" max-vertical-offset="4175">
+          <caret line="165" column="5" selection-start-line="165" selection-start-column="5" selection-end-line="165" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1512#1513#0" expanded="false" />
+            <element signature="e#1559#1560#0" expanded="false" />
+            <element signature="e#1769#1770#0" expanded="false" />
+            <element signature="e#1804#1805#0" expanded="false" />
+            <element signature="e#1954#1955#0" expanded="false" />
+            <element signature="e#1984#1985#0" expanded="false" />
+            <element signature="e#4225#4226#0" expanded="false" />
+            <element signature="e#4253#4254#0" expanded="false" />
+            <element signature="e#4535#4536#0" expanded="false" />
+            <element signature="e#4592#4593#0" expanded="false" />
+            <element signature="e#5281#5282#0" expanded="false" />
+            <element signature="e#5312#5313#0" expanded="false" />
+            <element signature="e#5539#5540#0" expanded="false" />
+            <element signature="e#5593#5594#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11450">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7900" max-vertical-offset="11725">
+          <caret line="649" column="32" selection-start-line="649" selection-start-column="32" selection-end-line="649" selection-end-column="32" />
+          <folding>
+            <marker date="1470056752709" expanded="false" signature="24651:24704" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySwingTest.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="2025">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/JackConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1000">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1350">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2075" max-vertical-offset="3075">
+          <caret line="177" column="7" selection-start-line="177" selection-start-column="7" selection-end-line="177" selection-end-column="7" />
+          <folding>
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#986#1049#0" expanded="true" />
+            <element signature="e#2672#2819#0" expanded="true" />
+            <element signature="e#2818#2819#0" expanded="true" />
+            <element signature="e#11409#11610#0" expanded="true" />
+            <element signature="e#11609#11610#0" expanded="true" />
+            <marker date="1470064217467" expanded="false" signature="12309:12362" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/GraphAttriSetFrame.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/GraphAttriSetFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="4225">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+          <folding>
+            <element signature="e#1280#1750#0" expanded="true" />
+            <element signature="e#1749#1750#0" expanded="true" />
+            <element signature="e#2785#2941#0" expanded="true" />
+            <element signature="e#2940#2941#0" expanded="true" />
+            <element signature="e#3034#3191#0" expanded="true" />
+            <element signature="e#3190#3191#0" expanded="true" />
+            <element signature="e#3374#3375#0" expanded="true" />
+            <element signature="e#3406#3407#0" expanded="true" />
+            <element signature="e#3446#3447#0" expanded="true" />
+            <element signature="e#3474#3475#0" expanded="true" />
+            <element signature="e#7036#7037#0" expanded="true" />
+            <element signature="e#7069#7070#0" expanded="true" />
+            <marker date="1470056752707" expanded="false" signature="7807:7859" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prefuse/data/search/LuceneSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3539" max-vertical-offset="6475">
+          <caret line="181" column="20" selection-start-line="181" selection-start-column="20" selection-end-line="181" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1859#1860#0" expanded="false" />
+            <element signature="e#1913#1914#0" expanded="false" />
+            <element signature="e#2130#2131#0" expanded="false" />
+            <element signature="e#2169#2170#0" expanded="false" />
+            <element signature="e#2626#2627#0" expanded="false" />
+            <element signature="e#2682#2683#0" expanded="false" />
+            <element signature="e#8444#8445#0" expanded="false" />
+            <element signature="e#8475#8476#0" expanded="false" />
+            <element signature="e#8685#8686#0" expanded="false" />
+            <element signature="e#8725#8726#0" expanded="false" />
+            <element signature="e#9020#9021#0" expanded="false" />
+            <element signature="e#9067#9068#0" expanded="false" />
+            <element signature="e#9374#9375#0" expanded="false" />
+            <element signature="e#9428#9429#0" expanded="false" />
+            <element signature="e#9620#9621#0" expanded="false" />
+            <element signature="e#9649#9650#0" expanded="false" />
+            <element signature="e#9844#9845#0" expanded="false" />
+            <element signature="e#9875#9876#0" expanded="false" />
+            <element signature="e#10045#10046#0" expanded="false" />
+            <element signature="e#10078#10079#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prefuse/data/search/KeywordSearchTupleSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3164" max-vertical-offset="4175">
+          <caret line="165" column="5" selection-start-line="165" selection-start-column="5" selection-end-line="165" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1512#1513#0" expanded="false" />
+            <element signature="e#1559#1560#0" expanded="false" />
+            <element signature="e#1769#1770#0" expanded="false" />
+            <element signature="e#1804#1805#0" expanded="false" />
+            <element signature="e#1954#1955#0" expanded="false" />
+            <element signature="e#1984#1985#0" expanded="false" />
+            <element signature="e#4225#4226#0" expanded="false" />
+            <element signature="e#4253#4254#0" expanded="false" />
+            <element signature="e#4535#4536#0" expanded="false" />
+            <element signature="e#4592#4593#0" expanded="false" />
+            <element signature="e#5281#5282#0" expanded="false" />
+            <element signature="e#5312#5313#0" expanded="false" />
+            <element signature="e#5539#5540#0" expanded="false" />
+            <element signature="e#5593#5594#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7900" max-vertical-offset="11725">
+          <caret line="649" column="32" selection-start-line="649" selection-start-column="32" selection-end-line="649" selection-end-column="32" />
+          <folding>
+            <marker date="1470056752709" expanded="false" signature="24651:24704" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySwingTest.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="2025">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/JackConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1000">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1350">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2075" max-vertical-offset="3075">
+          <caret line="177" column="7" selection-start-line="177" selection-start-column="7" selection-end-line="177" selection-end-column="7" />
+          <folding>
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#986#1049#0" expanded="true" />
+            <element signature="e#2672#2819#0" expanded="true" />
+            <element signature="e#2818#2819#0" expanded="true" />
+            <element signature="e#11409#11610#0" expanded="true" />
+            <element signature="e#11609#11610#0" expanded="true" />
+            <marker date="1470064217467" expanded="false" signature="12309:12362" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/GraphAttriSetFrame.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/GraphAttriSetFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="4175">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+          <folding>
+            <element signature="e#1280#1750#0" expanded="true" />
+            <element signature="e#1749#1750#0" expanded="true" />
+            <element signature="e#2785#2941#0" expanded="true" />
+            <element signature="e#2940#2941#0" expanded="true" />
+            <element signature="e#3034#3191#0" expanded="true" />
+            <element signature="e#3190#3191#0" expanded="true" />
+            <element signature="e#3374#3375#0" expanded="true" />
+            <element signature="e#3406#3407#0" expanded="true" />
+            <element signature="e#3446#3447#0" expanded="true" />
+            <element signature="e#3474#3475#0" expanded="true" />
+            <element signature="e#7036#7037#0" expanded="true" />
+            <element signature="e#7069#7070#0" expanded="true" />
+            <marker date="1470056752707" expanded="false" signature="7807:7859" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prefuse/data/search/LuceneSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3539" max-vertical-offset="6475">
+          <caret line="181" column="20" selection-start-line="181" selection-start-column="20" selection-end-line="181" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1859#1860#0" expanded="false" />
+            <element signature="e#1913#1914#0" expanded="false" />
+            <element signature="e#2130#2131#0" expanded="false" />
+            <element signature="e#2169#2170#0" expanded="false" />
+            <element signature="e#2626#2627#0" expanded="false" />
+            <element signature="e#2682#2683#0" expanded="false" />
+            <element signature="e#8444#8445#0" expanded="false" />
+            <element signature="e#8475#8476#0" expanded="false" />
+            <element signature="e#8685#8686#0" expanded="false" />
+            <element signature="e#8725#8726#0" expanded="false" />
+            <element signature="e#9020#9021#0" expanded="false" />
+            <element signature="e#9067#9068#0" expanded="false" />
+            <element signature="e#9374#9375#0" expanded="false" />
+            <element signature="e#9428#9429#0" expanded="false" />
+            <element signature="e#9620#9621#0" expanded="false" />
+            <element signature="e#9649#9650#0" expanded="false" />
+            <element signature="e#9844#9845#0" expanded="false" />
+            <element signature="e#9875#9876#0" expanded="false" />
+            <element signature="e#10045#10046#0" expanded="false" />
+            <element signature="e#10078#10079#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prefuse/data/search/KeywordSearchTupleSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3164" max-vertical-offset="4175">
+          <caret line="165" column="5" selection-start-line="165" selection-start-column="5" selection-end-line="165" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1512#1513#0" expanded="false" />
+            <element signature="e#1559#1560#0" expanded="false" />
+            <element signature="e#1769#1770#0" expanded="false" />
+            <element signature="e#1804#1805#0" expanded="false" />
+            <element signature="e#1954#1955#0" expanded="false" />
+            <element signature="e#1984#1985#0" expanded="false" />
+            <element signature="e#4225#4226#0" expanded="false" />
+            <element signature="e#4253#4254#0" expanded="false" />
+            <element signature="e#4535#4536#0" expanded="false" />
+            <element signature="e#4592#4593#0" expanded="false" />
+            <element signature="e#5281#5282#0" expanded="false" />
+            <element signature="e#5312#5313#0" expanded="false" />
+            <element signature="e#5539#5540#0" expanded="false" />
+            <element signature="e#5593#5594#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7900" max-vertical-offset="11725">
+          <caret line="649" column="32" selection-start-line="649" selection-start-column="32" selection-end-line="649" selection-end-column="32" />
+          <folding>
+            <marker date="1470056752709" expanded="false" signature="24651:24704" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySwingTest.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1850" max-vertical-offset="3075">
+          <caret line="168" column="8" selection-start-line="168" selection-start-column="8" selection-end-line="168" selection-end-column="8" />
+          <folding>
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#986#1049#0" expanded="true" />
+            <element signature="e#2672#2819#0" expanded="true" />
+            <element signature="e#2818#2819#0" expanded="true" />
+            <element signature="e#11409#11610#0" expanded="true" />
+            <element signature="e#11609#11610#0" expanded="true" />
+            <marker date="1470064217467" expanded="false" signature="12309:12362" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prefuse/data/search/LuceneSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3539" max-vertical-offset="6475">
+          <caret line="181" column="20" selection-start-line="181" selection-start-column="20" selection-end-line="181" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1859#1860#0" expanded="false" />
+            <element signature="e#1913#1914#0" expanded="false" />
+            <element signature="e#2130#2131#0" expanded="false" />
+            <element signature="e#2169#2170#0" expanded="false" />
+            <element signature="e#2626#2627#0" expanded="false" />
+            <element signature="e#2682#2683#0" expanded="false" />
+            <element signature="e#8444#8445#0" expanded="false" />
+            <element signature="e#8475#8476#0" expanded="false" />
+            <element signature="e#8685#8686#0" expanded="false" />
+            <element signature="e#8725#8726#0" expanded="false" />
+            <element signature="e#9020#9021#0" expanded="false" />
+            <element signature="e#9067#9068#0" expanded="false" />
+            <element signature="e#9374#9375#0" expanded="false" />
+            <element signature="e#9428#9429#0" expanded="false" />
+            <element signature="e#9620#9621#0" expanded="false" />
+            <element signature="e#9649#9650#0" expanded="false" />
+            <element signature="e#9844#9845#0" expanded="false" />
+            <element signature="e#9875#9876#0" expanded="false" />
+            <element signature="e#10045#10046#0" expanded="false" />
+            <element signature="e#10078#10079#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prefuse/data/search/KeywordSearchTupleSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3164" max-vertical-offset="4175">
+          <caret line="165" column="5" selection-start-line="165" selection-start-column="5" selection-end-line="165" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1512#1513#0" expanded="false" />
+            <element signature="e#1559#1560#0" expanded="false" />
+            <element signature="e#1769#1770#0" expanded="false" />
+            <element signature="e#1804#1805#0" expanded="false" />
+            <element signature="e#1954#1955#0" expanded="false" />
+            <element signature="e#1984#1985#0" expanded="false" />
+            <element signature="e#4225#4226#0" expanded="false" />
+            <element signature="e#4253#4254#0" expanded="false" />
+            <element signature="e#4535#4536#0" expanded="false" />
+            <element signature="e#4592#4593#0" expanded="false" />
+            <element signature="e#5281#5282#0" expanded="false" />
+            <element signature="e#5312#5313#0" expanded="false" />
+            <element signature="e#5539#5540#0" expanded="false" />
+            <element signature="e#5593#5594#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1020,7 +1300,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11450">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1470056752709" expanded="false" signature="24651:24704" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11450">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1470056752709" expanded="false" signature="24651:24704" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1028,7 +1320,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1470056752709" expanded="false" signature="24651:24704" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1046,24 +1340,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.form">
-      <provider selected="true" editor-type-id="ui-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/apache/demo/GraphUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.560241" vertical-offset="914" max-vertical-offset="3000">
           <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1639" max-vertical-offset="3025">
-          <caret line="168" column="8" selection-start-line="168" selection-start-column="8" selection-end-line="168" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1071,7 +1351,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3539" max-vertical-offset="6475">
           <caret line="181" column="20" selection-start-line="181" selection-start-column="20" selection-end-line="181" selection-end-column="20" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1859#1860#0" expanded="false" />
+            <element signature="e#1913#1914#0" expanded="false" />
+            <element signature="e#2130#2131#0" expanded="false" />
+            <element signature="e#2169#2170#0" expanded="false" />
+            <element signature="e#2626#2627#0" expanded="false" />
+            <element signature="e#2682#2683#0" expanded="false" />
+            <element signature="e#8444#8445#0" expanded="false" />
+            <element signature="e#8475#8476#0" expanded="false" />
+            <element signature="e#8685#8686#0" expanded="false" />
+            <element signature="e#8725#8726#0" expanded="false" />
+            <element signature="e#9020#9021#0" expanded="false" />
+            <element signature="e#9067#9068#0" expanded="false" />
+            <element signature="e#9374#9375#0" expanded="false" />
+            <element signature="e#9428#9429#0" expanded="false" />
+            <element signature="e#9620#9621#0" expanded="false" />
+            <element signature="e#9649#9650#0" expanded="false" />
+            <element signature="e#9844#9845#0" expanded="false" />
+            <element signature="e#9875#9876#0" expanded="false" />
+            <element signature="e#10045#10046#0" expanded="false" />
+            <element signature="e#10078#10079#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1079,23 +1381,134 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3164" max-vertical-offset="4175">
           <caret line="165" column="5" selection-start-line="165" selection-start-column="5" selection-end-line="165" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.69697" vertical-offset="7580" max-vertical-offset="11675">
-          <caret line="649" column="32" selection-start-line="649" selection-start-column="32" selection-end-line="649" selection-end-column="32" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1512#1513#0" expanded="false" />
+            <element signature="e#1559#1560#0" expanded="false" />
+            <element signature="e#1769#1770#0" expanded="false" />
+            <element signature="e#1804#1805#0" expanded="false" />
+            <element signature="e#1954#1955#0" expanded="false" />
+            <element signature="e#1984#1985#0" expanded="false" />
+            <element signature="e#4225#4226#0" expanded="false" />
+            <element signature="e#4253#4254#0" expanded="false" />
+            <element signature="e#4535#4536#0" expanded="false" />
+            <element signature="e#4592#4593#0" expanded="false" />
+            <element signature="e#5281#5282#0" expanded="false" />
+            <element signature="e#5312#5313#0" expanded="false" />
+            <element signature="e#5539#5540#0" expanded="false" />
+            <element signature="e#5593#5594#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MySwingTest.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2025">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="2025">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/test/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3150">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18750" max-vertical-offset="19800">
+          <caret line="644" column="13" selection-start-line="644" selection-start-column="13" selection-end-line="644" selection-end-column="13" />
+          <folding>
+            <marker date="1470056752709" expanded="false" signature="24651:24704" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/GraphAttriSetFrame.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/MainFrame.jfd">
+      <provider selected="true" editor-type-id="JFormDesigner">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/GraphAttriSetFrame.jfd">
+      <provider selected="true" editor-type-id="JFormDesigner">
+        <state propertiesWidth="500" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/JackConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1000">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/GraphAttriSetFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.6969695" vertical-offset="1487" max-vertical-offset="5700">
+          <caret line="85" column="49" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="49" />
+          <folding>
+            <element signature="e#1280#1750#0" expanded="true" />
+            <element signature="e#1749#1750#0" expanded="true" />
+            <element signature="e#2785#2941#0" expanded="true" />
+            <element signature="e#2940#2941#0" expanded="true" />
+            <element signature="e#3034#3191#0" expanded="true" />
+            <element signature="e#3190#3191#0" expanded="true" />
+            <element signature="e#3374#3375#0" expanded="true" />
+            <element signature="e#3406#3407#0" expanded="true" />
+            <element signature="e#3446#3447#0" expanded="true" />
+            <element signature="e#3474#3475#0" expanded="true" />
+            <element signature="e#7036#7037#0" expanded="true" />
+            <element signature="e#7069#7070#0" expanded="true" />
+            <marker date="1470056752707" expanded="false" signature="7807:7859" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.jfd">
+      <provider selected="true" editor-type-id="JFormDesigner">
+        <state propertiesWidth="441" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/demo/DatabaseConfFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4090909" vertical-offset="3740" max-vertical-offset="5075">
+          <caret line="168" column="8" selection-start-line="168" selection-start-column="8" selection-end-line="168" selection-end-column="8" />
+          <folding>
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#986#1049#0" expanded="true" />
+            <element signature="e#2672#2819#0" expanded="true" />
+            <element signature="e#2818#2819#0" expanded="true" />
+            <element signature="e#11409#11610#0" expanded="true" />
+            <element signature="e#11609#11610#0" expanded="true" />
+            <marker date="1470064217467" expanded="false" signature="12309:12362" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1164,6 +1577,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -165,13 +165,13 @@ public class DatabaseConfFrame extends javax.swing.JFrame {
 		
 		dbFrame.dispose();
 		
-		GraphUtils.setRenderer();
+		GraphUtils.setRenderer("");
 		
 		GraphUtils.setAction();
 //		FileTabUtils.preShow();
 		
 		MainFrame mainFrame = new MainFrame();
-		mainFrame.sendToJSplitPane();
+		mainFrame.sendToJSplitPane("");
 		
 	}
 

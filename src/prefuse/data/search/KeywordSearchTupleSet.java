@@ -152,8 +152,8 @@ public class KeywordSearchTupleSet extends SearchTupleSet {
      */
     protected Document getDocument(int id, String text) {
         Document d = new Document();
-        d.add(Field.Text(LuceneSearcher.FIELD, text, m_storeTermVectors));
-        d.add(Field.Keyword(LuceneSearcher.ID, String.valueOf(id)));
+//        d.add(Field.Text(LuceneSearcher.FIELD, text, m_storeTermVectors));
+//        d.add(Field.Keyword(LuceneSearcher.ID, String.valueOf(id)));
         return d;
     }
     

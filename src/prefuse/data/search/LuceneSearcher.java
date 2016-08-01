@@ -166,19 +166,20 @@ public class LuceneSearcher {
      * @throws IllegalStateException if the searcher is in write mode
      */
     public Hits search(String query) throws ParseException, IOException {
-        if ( m_readMode ) {
-            Query q;
-            if ( fields.length == 1 ) {
-                q = QueryParser.parse(query, fields[0], analyzer);
-            } else {
-                q = MultiFieldQueryParser.parse(query, fields, analyzer);
-            }
-            return searcher.search(q);
-        } else {
-            throw new IllegalStateException(
-                    "Searches can only be performed when " +
-                    "the LuceneSearcher is in read mode");
-        }
+//        if ( m_readMode ) {
+//            Query q;
+//            if ( fields.length == 1 ) {
+//                q = QueryParser.parse(query, fields[0], analyzer);
+//            } else {
+//                q = MultiFieldQueryParser.parse(query, fields, analyzer);
+//            }
+//            return searcher.search(q);
+//        } else {
+//            throw new IllegalStateException(
+//                    "Searches can only be performed when " +
+//                    "the LuceneSearcher is in read mode");
+//        }
+        return null;
     }
     
     /**
