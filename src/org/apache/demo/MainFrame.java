@@ -20,13 +20,7 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.UnsupportedEncodingException;
 
-import javax.swing.JColorChooser;
-import javax.swing.JComponent;
-import javax.swing.JFileChooser;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JPanel;
-import javax.swing.JTextArea;
+import javax.swing.*;
 
 import prefuse.Constants;
 import prefuse.Display;
@@ -647,9 +641,23 @@ public class MainFrame extends javax.swing.JFrame {
 	 *            the command line arguments
 	 */
 	public static void main(String args[]) {
-		UILib.setPlatformLookAndFeel();
+        //default skin
+//		UILib.setPlatformLookAndFeel();
 
-		java.awt.EventQueue.invokeLater(new Runnable() {
+        //mac window style skin, if you want to apply this skin, please add skin.jar under libs into classpath
+        try {
+            javax.swing.UIManager.setLookAndFeel("com.jtattoo.plaf.mcwin.McWinLookAndFeel");
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        } catch (InstantiationException e) {
+            e.printStackTrace();
+        } catch (IllegalAccessException e) {
+            e.printStackTrace();
+        } catch (UnsupportedLookAndFeelException e) {
+            e.printStackTrace();
+        }
+
+        java.awt.EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				frame = new MainFrame();
 				frame.setLocationRelativeTo(null);//设置默认显示位置为居中
