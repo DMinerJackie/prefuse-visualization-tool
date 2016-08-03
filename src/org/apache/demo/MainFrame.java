@@ -63,6 +63,7 @@ public class MainFrame extends javax.swing.JFrame {
 		roundRectangleItem.setEnabled(itemIsEnable);
 		zoomToFitItem.setEnabled(itemIsEnable);
 		switchButton.setEnabled(itemIsEnable);
+		backgroundButton.setEnabled(itemIsEnable);
 	}
 
 	//GEN-BEGIN:initComponents
@@ -368,19 +369,19 @@ public class MainFrame extends javax.swing.JFrame {
 	//GEN-END:initComponents
 
 	private void backgroundButtonActionPerformed(java.awt.event.ActionEvent evt) {
-//		JFrame colorFrame = new JFrame();
-//		JColorChooser colorChooser = new JColorChooser(Color.WHITE);
-//		colorFrame.setLocationRelativeTo(null);
-//		setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+		JFrame colorFrame = new JFrame();
+		JColorChooser colorChooser = new JColorChooser(Color.WHITE);
+		colorFrame.setLocationRelativeTo(null);
+		setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 //		helpFrame.setPreferredSize(new Dimension(450, 200));
-//		visInstance = GraphUtils.getVisualization();
-//		Color color = new Color(255, 255, 255);
-//		color = JColorChooser.showDialog(null, "请选择你喜欢的颜色", color);
-//		Display display = visInstance.getDisplay(0);
-//		if(display == null)
-//			return;
-//		display.setBackground(color);
-//		visInstance.repaint();
+		visInstance = GraphUtils.getVisualization();
+		Color color = new Color(255, 255, 255);
+		color = JColorChooser.showDialog(null, "请选择你喜欢的颜色", color);
+		Display display = visInstance.getDisplay(0);
+		if(display == null)
+			return;
+		display.setBackground(color);
+		visInstance.repaint();
 	}
 
 	/**
@@ -611,6 +612,7 @@ public class MainFrame extends javax.swing.JFrame {
 		roundRectangleItem.setEnabled(itemIsEnable);
 		zoomToFitItem.setEnabled(itemIsEnable);
 		switchButton.setEnabled(itemIsEnable);
+		backgroundButton.setEnabled(itemIsEnable);
 		this.repaint();
 	}
 
