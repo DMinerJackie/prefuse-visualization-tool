@@ -53,6 +53,8 @@ public class MainFrame extends javax.swing.JFrame {
 		randomLayoutItem.setEnabled(itemIsEnable);
 		gridLayoutItem.setEnabled(itemIsEnable);
 		fruchtermanLayoutItem.setEnabled(itemIsEnable);
+		radialTreeLayout.setEnabled(itemIsEnable);
+		nodeLinkTreeLayoutItem.setEnabled(itemIsEnable);
 		noTextItem.setEnabled(itemIsEnable);
 		textOnlyItem.setEnabled(itemIsEnable);
 		textAndImageItem.setEnabled(itemIsEnable);
@@ -599,6 +601,8 @@ public class MainFrame extends javax.swing.JFrame {
 		randomLayoutItem.setEnabled(itemIsEnable);
 		gridLayoutItem.setEnabled(itemIsEnable);
 		fruchtermanLayoutItem.setEnabled(itemIsEnable);
+		radialTreeLayout.setEnabled(itemIsEnable);
+		nodeLinkTreeLayoutItem.setEnabled(itemIsEnable);
 		noTextItem.setEnabled(itemIsEnable);
 		textOnlyItem.setEnabled(itemIsEnable);
 		textAndImageItem.setEnabled(itemIsEnable);
