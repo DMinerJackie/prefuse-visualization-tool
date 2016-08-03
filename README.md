@@ -1,10 +1,12 @@
 # prefuse-visualization-tool
 
-##Welcome to here for my visualization tool, the tool was programmed based on the Prefuse visualization Engine. It's feature contains:<br> support multiple format data import<br>
+##Welcome to here for my visualization tool, the tool was programmed based on the Prefuse visualization Engine. It's feature contains:<br> 
+support multiple format data import<br>
 connect the JDBC and seize the data form data source configured<br>
 support common layout algorithms display<br>
 drag and drop and interactive<br>
 adjust to show depend on node or edge weight of the data imported<br>
+change the display graph section background color<br>
 .....<br>
 
 
@@ -43,6 +45,7 @@ run/stop the layout algorith <br><br>
 ![Demo1](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/demo1.gif)<br>
 ![Demo2](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/demo2.gif)<br>
 ![Demo3](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/demo3.gif)<br>
+![Demo4](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/demo4.gif)<br>
 ![bigdataShow](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/bigdataShow.png)<br>
 ![weightEdge](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/weightEdge.jpg)<br>
 
