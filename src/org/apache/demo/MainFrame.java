@@ -61,6 +61,8 @@ public class MainFrame extends javax.swing.JFrame {
 		rectangleItem.setEnabled(itemIsEnable);
 		roundItem.setEnabled(itemIsEnable);
 		roundRectangleItem.setEnabled(itemIsEnable);
+		curveItem.setEnabled(itemIsEnable);
+		straightItem.setEnabled(itemIsEnable);
 		zoomToFitItem.setEnabled(itemIsEnable);
 		switchButton.setEnabled(itemIsEnable);
 		backgroundButton.setEnabled(itemIsEnable);
@@ -106,6 +108,8 @@ public class MainFrame extends javax.swing.JFrame {
 		roundItem = new javax.swing.JMenuItem();
 		roundRectangleItem = new javax.swing.JMenuItem();
 		edgeMenu = new javax.swing.JMenu();
+		curveItem = new javax.swing.JMenuItem();
+		straightItem = new javax.swing.JMenuItem();
 		ActionMenu = new javax.swing.JMenu();
 		controllerMenu = new javax.swing.JMenu();
 		zoomToFitItem = new javax.swing.JMenuItem();
@@ -327,6 +331,21 @@ public class MainFrame extends javax.swing.JFrame {
 
 		jMenuBar1.add(nodeMenu);
 
+		curveItem.setText("曲线边");
+		curveItem.addActionListener(new java.awt.event.ActionListener() {
+			public void actionPerformed(java.awt.event.ActionEvent evt) {
+				curveItemActionPerformed(evt);
+			}
+		});
+
+		straightItem.setText("直线边");
+		straightItem.addActionListener(new java.awt.event.ActionListener() {
+			public void actionPerformed(java.awt.event.ActionEvent evt) {
+				straightItemActionPerformed(evt);
+			}
+		});
+		edgeMenu.add(curveItem);
+		edgeMenu.add(straightItem);
 		edgeMenu.setText("\u8fb9\u914d\u7f6e");
 		jMenuBar1.add(edgeMenu);
 
@@ -470,6 +489,20 @@ public class MainFrame extends javax.swing.JFrame {
 	}
 
 	/**
+	 * 曲线边选项卡
+	 */
+	private void curveItemActionPerformed(java.awt.event.ActionEvent evt){
+		EdgeConfTabUtils.curveEdgeAction();
+	}
+
+	/**
+	 * 直线边选项卡
+	 */
+	private void straightItemActionPerformed(java.awt.event.ActionEvent evt){
+		EdgeConfTabUtils.straightEdgeAction();
+	}
+
+	/**
 	 * 节点分级展示选项卡
 	 */
 	private void nodeLinkTreeLayoutItemActionPerformed(java.awt.event.ActionEvent evt) {
@@ -610,6 +643,8 @@ public class MainFrame extends javax.swing.JFrame {
 		rectangleItem.setEnabled(itemIsEnable);
 		roundItem.setEnabled(itemIsEnable);
 		roundRectangleItem.setEnabled(itemIsEnable);
+		curveItem.setEnabled(itemIsEnable);
+		straightItem.setEnabled(itemIsEnable);
 		zoomToFitItem.setEnabled(itemIsEnable);
 		switchButton.setEnabled(itemIsEnable);
 		backgroundButton.setEnabled(itemIsEnable);
@@ -712,6 +747,8 @@ public class MainFrame extends javax.swing.JFrame {
 	private javax.swing.JMenuItem rectangleItem;
 	private javax.swing.JMenuItem roundItem;
 	private javax.swing.JMenuItem roundRectangleItem;
+	private javax.swing.JMenuItem curveItem;
+	private javax.swing.JMenuItem straightItem;
 	private javax.swing.JMenuItem saveAsItem;
 	private javax.swing.JButton switchButton;
 	private javax.swing.JMenuItem textAndImageItem;
