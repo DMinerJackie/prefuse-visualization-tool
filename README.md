@@ -13,7 +13,7 @@ change the display graph section background color<br>
 
 ###How to setup the visualization tool
 
-Find the java class MainFrame, and in your IDE, and run up the main mehod, you will see the tool UI.
+Find the java class MainFrame, and in your IDE, and run up the main method, you will see the tool UI.
 
 ###Feature Display
 
@@ -26,7 +26,7 @@ right: parameter adjustment panel<br><br>
 2.Implement feature<br>
 open data file<br>
 connect to the database<br>
-save as a screenshot<br>
+save as a screen shot<br>
 quit the tool<br>
 
 layout algorithm like Force directed algorithm, Circle algorithm and so on<br>
@@ -46,6 +46,7 @@ run/stop the layout algorith <br><br>
 ![Demo2](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/demo2.gif)<br>
 ![Demo3](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/demo3.gif)<br>
 ![Demo4](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/demo4.gif)<br>
+![Demo5](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/demo5.gif)<br>
 ![bigdataShow](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/bigdataShow.png)<br>
 ![weightEdge](https://github.com/DMinerJackie/prefuse-visualization-tool/blob/master/resource/weightEdge.jpg)<br>
 
