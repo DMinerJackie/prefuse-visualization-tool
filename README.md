@@ -1,6 +1,6 @@
 # prefuse-visualization-tool
 
-##Welcome to here for my visualization tool, the tool was programmed based on the Prefuse visualization Engine. It's feature contains:<br> 
+## Welcome to here for my visualization tool, the tool was programmed based on the Prefuse visualization Engine. It's feature contains:<br> 
 support multiple format data import<br>
 connect the JDBC and seize the data form data source configured<br>
 support common layout algorithms display<br>
@@ -11,11 +11,11 @@ change the display graph section background color<br>
 
 
 
-###How to setup the visualization tool
+### How to setup the visualization tool
 
 Find the java class MainFrame, and in your IDE, and run up the main method, you will see the tool UI.
 
-###Feature Display
+### Feature Display
 
 1.Tool UI structure<br>
 top: menu bar<br>
